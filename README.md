@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/Omer-Atif/Omer-Atif/main/dist/github-jet.svg" width="100%">
+</p>
